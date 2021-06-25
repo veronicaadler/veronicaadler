@@ -2,6 +2,10 @@
 
 I'm a MERN stack developer studying @ Nucamp.
 
+<p align="center">
+<img align="center" src="https://media1.tenor.com/images/86151e83806b0e48413715fcff110069/tenor.gif?itemid=16793279" alt="Lady Coder" title="Databay showcase gif" height="300"/>
+</p>
+
 
 ## I believe that coding is a creative endeavor by which we can solve problems, express ourselves and share ideas. 
 
