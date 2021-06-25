@@ -4,7 +4,7 @@
 
 # Hi, I'm Veronica.
 
-I'm a MERN stack developer studying @ Nucamp. <br><br> 
+I'm a MERN stack developer studying @ Nucamp.
 
 
 ## I believe that coding is a creative endeavor by which we can solve problems, express ourselves and share ideas. <br><br>
