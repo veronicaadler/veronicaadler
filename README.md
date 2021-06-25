@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="https://media1.tenor.com/images/86151e83806b0e48413715fcff110069/tenor.gif?itemid=16793279" alt="Lady Coder" title="Databay showcase gif" height="400"/>
+<img align="center" src="https://media1.tenor.com/images/86151e83806b0e48413715fcff110069/tenor.gif?itemid=16793279" alt="Lady Coder" title="Databay showcase gif" height="300"/>
 </p>
 
 # Hi, I'm Veronica.
@@ -14,7 +14,7 @@
 
 ## Please check out my projects! <br><br><br>
 
-<p>Currently mastering: React.js <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" height="50px" alt="React Logo"> </p>
+<p align="right">Currently mastering: React.js <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" height="50px" alt="React Logo"> </p>
 
 <!--
 **veronicaadler/veronicaadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
