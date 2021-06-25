@@ -10,9 +10,9 @@ I'm a MERN stack developer studying @ Nucamp. <br><br>
 ## I believe that coding is a creative endeavor by which we can solve problems, express ourselves and share ideas. <br><br>
 
 
-<strong>A little about me</strong>: wellness enthusiast, fantasy reader, anime fan, nature lover, yoga practitioner, daily meditator. <br><br>
+<strong>A little about me</strong>: wellness enthusiast, fantasy reader, anime fan, nature lover, yoga practitioner, daily meditator.
 
-## Please check out my projects! <br><br><br>
+## Please check out my projects!
 
 <p align="right">Currently mastering: React.js <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" height="50px" alt="React Logo"> </p>
 
