@@ -1,3 +1,4 @@
+![Lady Coder](https://media1.tenor.com/images/86151e83806b0e48413715fcff110069/tenor.gif?itemid=16793279)
 
 # Hi, I'm Veronica.
 
