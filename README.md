@@ -10,7 +10,7 @@ I'm a MERN stack developer studying @ Nucamp.
 ## I believe that coding is a creative endeavor by which we can solve problems, express ourselves and share ideas. 
 
 
-<strong>A little about me</strong>: wellness enthusiast, fantasy reader, anime fan, nature lover, yoga practitioner, daily meditator.
+<strong>A little about me</strong>: wellness enthusiast, speculative fiction reader, anime fan, nature lover, yoga practitioner, daily meditator.
 
 ## Please check out my projects!
 
