@@ -7,7 +7,7 @@ I'm a MERN stack developer studying @ Nucamp.
 </p>
 
 
-## I believe that coding is a creative endeavor by which we can solve problems, express ourselves and share ideas. 
+## I believe that coding is both a creative and technical endeavor by which we can solve problems, express ourselves and share ideas. 
 
 
 <strong>A little about me</strong>: wellness enthusiast, speculative fiction reader, anime fan, nature lover, yoga practitioner, daily meditator.
