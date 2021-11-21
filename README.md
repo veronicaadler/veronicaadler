@@ -5,7 +5,7 @@
 </p>
 
 
-## I love creative technologies that solve problems, create experiences, and build community.
+## I love innovative technologies that solve problems, create experiences, and build community.
 
 
 <strong>A little about me</strong>: wellness enthusiast, speculative fiction reader, anime fan, nature lover, yoga practitioner, daily meditator.
