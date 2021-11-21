@@ -5,7 +5,7 @@
 </p>
 
 
-## I believe that coding is both a creative and technical endeavor by which we can solve problems, express ourselves and share ideas. 
+## I love creative technologies that allow us to express ourselves, learn, share, and build community.
 
 
 <strong>A little about me</strong>: wellness enthusiast, speculative fiction reader, anime fan, nature lover, yoga practitioner, daily meditator.
