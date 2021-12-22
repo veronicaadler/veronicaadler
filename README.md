@@ -1,7 +1,7 @@
 # Hi, I'm Veronica :wave:
 
 <p align="center">
-<img align="center" src="https://i.ibb.co/vmKKqYF/alternativelinkedinbanner.png" alt="Veronica's Professional Banner"/>
+<img align="center" src="https://i.ibb.co/gJJq2vh/finalgithubbanner.png" alt="Veronica's Professional Banner"/>
 </p>
 
 
