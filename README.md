@@ -12,7 +12,7 @@
 
 ## Please check out my projects!
 
-<p align="right">Currently mastering: React.js <img src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" height="50px" alt="React Logo"> </p>
+<p align="right">Currently mastering: Typescript <img src="https://miro.medium.com/max/1400/1*mn6bOs7s6Qbao15PMNRyOA.png" height="50px" alt="Typescript Logo"> </p>
 
 <!--
 **veronicaadler/veronicaadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
