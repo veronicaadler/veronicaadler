@@ -5,7 +5,7 @@
 </p>
 
 
-## I love innovative technologies that solve problems, create experiences, and build community.
+## I'm inspired by creating a great user experience, supporting diversity in tech, and all the wonderful ways that technology can support our creativity, health, and learning.
 
 
 <strong>A little about me</strong>: wellness enthusiast, speculative fiction reader, anime fan, nature lover, yoga practitioner, daily meditator.
